@@ -1,0 +1,9 @@
+﻿  19120701_19120726_BT02.cpp
+F:\bin\CV\Lab_2\19120701_19120726_BT02\Project\Project\19120701_19120726_BT02.cpp(12,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\bin\CV\Lab_2\19120701_19120726_BT02\Project\Project\19120701_19120726_BT02.cpp(73,20): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+F:\bin\CV\Lab_2\19120701_19120726_BT02\Project\Project\19120701_19120726_BT02.cpp(109,20): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project.vcxproj -> F:\bin\CV\Lab_2\19120701_19120726_BT02\Project\x64\Release\Project.exe
